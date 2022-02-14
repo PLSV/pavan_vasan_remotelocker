@@ -1,0 +1,3 @@
+city | birthdate | last_name | first_name | address
+Paris | 5-1-2000 | Mimieux | Simone | 6 Boulevard Arieste Briand
+London | 30-4-1998 | Simons | Colin | 221 Baker St
