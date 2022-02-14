@@ -1,0 +1,3 @@
+city || birthdate || last_name || first_name
+Delhi || 2-3-1997 || Singhania || Mridula
+Moscow || 15-7-1998 || Tabalin || Leon

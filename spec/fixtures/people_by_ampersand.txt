@@ -1,0 +1,3 @@
+city & birthdate & last_name & first_name
+Munich & 5-1-1995 & Oak & Pamela
+Vancouver & 10-6-1994 & Barnes & Chloe
